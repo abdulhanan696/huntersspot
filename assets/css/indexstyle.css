@@ -1,0 +1,125 @@
+
+#containerindex{
+	height: 100%;
+	width: 90%;
+	margin: 0 auto;
+	background: rgba(0, 0, 0, 0.3);
+}
+#headerindex{
+	height: 50px;
+	width: 100%;
+	background: rgba(28, 32, 33, 0.1);
+	margin-bottom: 0px;
+}
+#heading{
+	height: 100px;
+	width: 100%;
+	background-color: gray;
+	background: rgba(76, 175, 180, 0.9);
+}
+#login-btnindex{
+	float: right;
+	margin: 10px 10px;
+}
+#banner{
+	height: 200px;
+	width: 100%;
+	background: rgba(28, 32, 33, 0.2);
+}
+#logoindex{
+	height: 100%;
+	width: 50%;
+	float: left;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+	#message{
+	height: 100%;
+	width: 50%;
+	float: left;
+	text-align: right;
+	padding-right: 20px;
+}
+#container2{
+	margin-top: 0px;
+	height: 250px;
+	width: 100%;
+	background: rgba(28, 32, 33, 0.5);
+}
+#searchmapcontainer{
+	height: 200px;
+	width: 100%;
+}
+#searchindex{
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+#map{
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+#navigation{
+	height: 50px;
+	width: 100%;
+}
+
+#rules{
+	height: 300px;
+	width: 100%;
+}
+#qouts{
+	height: 300px;
+	width: 97%;
+	margin: 0 auto;
+	border-radius: 5px;
+	background-color: rgba(28, 32, 33, 0.4);
+}
+
+#ads{
+	height: 180px;
+	width: 100%;
+}
+
+#footerindex{
+	height: 140px;
+	width: 100%;
+	margin-top: 10px;
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+.ads{
+	height: 100px; 
+	width: 20%; 
+	border-radius: 5px;
+	margin: 30px 28px;
+	display: inline-block;
+	background-color: rgba(28, 32, 33, 0.4);
+}
+ #footerNav{
+ 	list-style-type: none;
+ 	padding: 10px;
+
+ }
+ .footerNavItem{
+ 	float: left;
+ }
+
+ .footerNavItem a{
+ 	text-align: center;
+	text-decoration: none;
+	color: rgba(500, 500, 500, 0.8);
+	width: 150px;
+ }
+
+
+ #cityNavList{
+ 	float: left;
+ 	color: white;
+ 	padding: 5px;
+ }
+
+ #cityNavList a{
+ 	color: white;
+ }

@@ -1,0 +1,79 @@
+
+#container{
+	height: 70px;
+	background-color: #F5F5F5;
+	width: 100%;
+}
+.inner_container{
+	height: 100%;
+	width: 90%;
+	margin: 0 auto;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#logo{
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+#note{
+	height: 100%;
+	width: 42%;
+	float: left;
+	padding-right: 5px;
+	border-right: 1px solid;
+	border-color: rgba(101, 101, 101, 0.1);
+}
+#search{
+	height: 100%;
+	width: 25%;
+	border-right: 1px solid;
+	border-color: rgba(101, 101, 101, 0.1);
+	float: left;
+	padding: 16px;
+}
+#loginbtn{
+	height: 100%;
+	width: 8%;
+	float: left;
+	border-right: 1px solid;
+	border-color: rgba(101, 101, 101, 0.1);
+	padding: 16px;
+}
+#searchbtn{
+	position: relative;
+	left:-8px;
+}
+
+#footer{
+	height: 140px;
+	background-color: #F5F5F5;
+	width: 100%;
+	margin-top: 10px;
+}
+
+ul{
+	list-style-type: none;
+	padding: 10px;
+	
+}
+
+li{
+	float: left;
+}
+
+
+#bodyContainer{
+	width: 90%;
+	height: 500px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.hostelsList{
+	height: 270px;
+	width: 270px;
+	float: left;
+	margin: 5px;
+	border:1px solid red;
+}
